@@ -19,7 +19,6 @@ let pc = [
 
 
 
-
 // СИНХРОНИЗАЦИЯ ЦЕН ПК
 const divId = document.querySelector(".info-buy-price");
 const dataId = divId.getAttribute("data-id");
