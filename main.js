@@ -56,7 +56,7 @@ function addBasket(dataId) {
 function loadBasket() {
     
 
-    const getLS = JSON.parse(localStorage.getItem("localBasket"));
+    let getLS = JSON.parse(localStorage.getItem("localBasket"));
     console.log(getLS);
 
     let viewBasket = document.querySelector(".viewBasket");
