@@ -1,0 +1,188 @@
+.center-product-info {
+	width: 1260px;
+	height: 676px;
+	border-radius: 15px;
+	margin: 0 auto;
+	margin-top: 15px;
+	position: relative;
+	box-shadow: 0 0 50px 20px black;
+}
+
+.center-product-info img {
+	width: 60%;
+	margin: 0;
+	
+	border: 2px solid #f8f8f8;
+}
+
+.center-product-info-buy {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 40%;
+	height: 672px;
+	background: linear-gradient(to left bottom, gray, black);
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border: 2px solid #f8f8f8;
+	z-index: 1;
+
+
+	h1 {
+		font-family: Roboto-local, sans-serif;
+		margin-top: 125px;
+		margin-left: 15px;
+		font-size: 42px;
+		color: #f8f8f8;
+	}
+	span {
+		font-size: 32px;
+
+	}
+	details {
+		margin: 25px;
+	}
+	li {
+		color: #f8f8f8;
+		font-family: Roboto-local, sans-serif;
+		font-size: 22px;
+
+	}
+	summary {
+		color: #f8f8f8;
+		font-family: Roboto-local, sans-serif;
+		font-size: 22px;
+	}
+}
+
+.info-buy-price {
+	
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	left: 15px;
+	
+	p {
+		margin-top: 25px;
+	}
+}
+
+
+.center-product-hardware {
+	width: 100%;
+	height: 1400px;
+	
+	margin-top: 50px;
+	
+	
+}
+.center-product-hardware img {
+	height: 320px;
+	
+}
+
+.bnt-buy {
+	width: 152px;
+	height: 50px;
+	margin-top: 115px;
+	margin-left: 40px;
+
+	img {
+		width: 100%;
+		height: 100%;
+		border: 1px solid #f8f8f8;
+		border-radius: 12px;
+	}
+}
+
+
+
+.hardware-pc {
+	width: 1260px;
+	margin: 0 auto;
+	
+	
+	
+
+	h1 {
+		font-family: Roboto-local, sans-serif;
+		text-align: center;
+		font-size: 42px;
+		color: #f8f8f8;
+	}
+}
+
+.center-product-hardware-row1 {
+	width: 1260px;
+	height: 320px;
+	
+	margin: 0 auto;
+	background-color: #111111;
+	
+	border-left: 2px solid  #f8f8f8;
+	border-top: 2px solid  #f8f8f8;
+	border-right: 2px solid  #f8f8f8;
+	border-top-right-radius: 15px;
+	
+	
+
+}
+.center-product-hardware-row2 {
+	width: 1260px;
+	height: 320px;
+	
+	margin: 0 auto;
+	background-color: #111111;
+	border-left: 2px solid  #f8f8f8;
+	border-right: 2px solid  #f8f8f8;
+	
+
+	img {
+		float: right;
+	}
+	
+	
+}
+.center-product-hardware-row3 {
+	width: 1260px;
+	height: 320px;
+	
+	margin: 0 auto;
+	background-color: #111111;
+	border-left: 2px solid  #f8f8f8;
+	border-bottom: 2px solid  #f8f8f8;
+	border-right: 2px solid  #f8f8f8;
+	border-bottom-right-radius: 15px;
+	
+	
+	
+}
+
+.hardware-row-description {
+	
+	width: 48%;
+	height: 100%;
+	
+	float: right;
+	margin-right: 5%;
+	
+
+	p {
+		margin-top: 50px;
+		font-size: 18px;
+		padding: 20px;
+		
+	}
+}
+				
+			
+
+
+
+
+
+
+
+
+
+

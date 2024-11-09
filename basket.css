@@ -1,0 +1,49 @@
+.viewBasket {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #111111;
+	border-radius: 15px;
+	
+	
+	
+}
+
+.divRow {
+	position: relative;
+	margin: 15px;
+	
+
+}
+
+.divImg {
+	width: 200px;
+	height: 200px;
+	
+
+	img {
+		height: 100%;
+		width: 100%;
+	}
+}
+
+.divH {
+	position: absolute;
+	min-width: 480px;
+	
+	top: 0;
+	left: 215px;
+
+	h3 {
+		color: #f8f8f8;
+		font-size: 24px;
+	}
+	h4 {
+		color: #f8f8f8;
+		font-size: 20px;
+	}
+	h5 {
+		color: #f8f8f8;
+		font-size: 16px;
+	}
+
+}
